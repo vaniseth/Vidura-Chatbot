@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 User Query:
 Explain why high σ_rate and low σ_angle lead to some pareto optimal points.
 
@@ -52,4 +51,4 @@ Contradiction Resolution:
 
 Synthesized Explanation:
 Based on physics, high σ_rate accelerates vertical growth while low σ_angle enhances alignment, together contributing to desirable outcomes. The FLS data supports this, showing that in these conditions, some design points achieve pareto optimality, although the presence of only 'Some' rather than 'Many' indicates that other factors may also play a role.
->>>>>>> 271a76a903bd964a760160d83ae8dcd13221d716
+
