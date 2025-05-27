@@ -1,0 +1,23 @@
+[
+    {
+      "question": "What are the primary differences between single-walled (SWCNTs) and multi-walled carbon nanotubes (MWCNTs)?",
+      "answer": "Single-walled carbon nanotubes (SWCNTs) are composed of a single cylindrical layer of graphene, with diameters ranging from 0.2 to 2 nm. In contrast, multi-walled carbon nanotubes (MWCNTs) consist of multiple concentric graphene cylinders, with outer diameters between 2 and 100 nm. SWCNTs often exhibit superior electronic properties, while MWCNTs are more robust mechanically due to their layered structure."
+    },
+    {
+      "question": "How does the functionalization of carbon nanotubes improve their properties?",
+      "answer": "Functionalization of carbon nanotubes enhances their solubility, dispersion, and surface interaction capabilities. Covalent functionalization introduces strong bonds by modifying sidewalls or ends of nanotubes, while non-covalent functionalization uses weak interactions like van der Waals forces. These modifications increase the chemical reactivity, hydrophilicity, and application potential of nanotubes in drug delivery, sensing, and energy storage."
+    },
+    {
+      "question": "What are the advantages of using a fluidized bed chemical vapor deposition (CVD) setup for synthesizing carbon nanotubes?",
+      "answer": "A fluidized bed CVD setup offers flexible geometry, precise parametric control, and lower production costs. The fluidized state ensures uniform catalyst exposure to precursor gases, enhancing catalytic activity and yielding well-structured carbon nanotubes with controlled dimensions and fewer defects."
+    },
+    {
+      "question": "What factors influence the CO2 adsorption capacity of multi-walled carbon nanotubes (MWCNTs)?",
+      "answer": "The CO2 adsorption capacity of MWCNTs is influenced by their structural properties, functional groups, and surface area. Functionalization, such as amine treatment, enhances adsorption by introducing active sites like carboxyl and amine groups. The pore size and graphitic structure also play significant roles in adsorption efficiency."
+    },
+    {
+      "question": "What are some common applications of carbon nanotubes and their composites?",
+      "answer": "Carbon nanotubes and their composites are widely used in various fields, including supercapacitors, drug delivery, electrocatalysts, nanocomposites, and sensing technologies. They are also employed in materials for electromagnetic interference shielding, energy storage, and as catalyst supports due to their exceptional thermal, mechanical, and electrical properties."
+    }
+  ]
+  
